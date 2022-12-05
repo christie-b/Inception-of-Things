@@ -15,7 +15,7 @@ Setup 2 virtual machines with Vagrant and configure K3s on both machines.
 ## Part 2
 Setup 3 web application that will run in a K3s instance  
 ![p2 screen](docs/p2.png)
-- When a client inputs the ip 192.168.42.110 in his web browser with the HOST app1.com, the server must display the app1. When the HOST app2.com is used, the server must display the app2. Otherwise, the app3 will be selected by default.
+- When a client inputs the ip 192.168.42.110 in his web browser with the HOST app1.com, the server must display the app1. When the HOST app2.com is used, the server must display the app2. Otherwise, the app3 will be selected by default.  
 ![p2-2 screen](docs/p2-2.png)
 ## Part 3
 Setup a _continuous integration_ following this infrastructure  
