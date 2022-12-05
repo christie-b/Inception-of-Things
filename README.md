@@ -1,5 +1,5 @@
 # Inception of things
-
+Kubernetes, small cluster deployment and continous integration with ArgoCD
 # Introduction
 ### K8s - Kubernetes
 Kubernetes, also known as K8s, is _an open-source system for automating deployment, scaling, and management of containerized applications_. 
